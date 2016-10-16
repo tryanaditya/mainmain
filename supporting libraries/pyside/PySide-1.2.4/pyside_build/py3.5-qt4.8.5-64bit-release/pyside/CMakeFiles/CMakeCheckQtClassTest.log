@@ -1,0 +1,319 @@
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec152848101/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec152848101.dir/build.make CMakeFiles/cmTryCompileExec152848101.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec152848101.dir/testQAbstractPageSetupDialog.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec152848101.dir/testQAbstractPageSetupDialog.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQAbstractPageSetupDialog.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQAbstractPageSetupDialog.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQAbstractPageSetupDialog.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QAbstractPageSetupDialog) }
+                    ^
+Linking CXX executable cmTryCompileExec152848101
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec152848101.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec152848101.dir/testQAbstractPageSetupDialog.cxx.o  -o cmTryCompileExec152848101 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec229190120/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec229190120.dir/build.make CMakeFiles/cmTryCompileExec229190120.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec229190120.dir/testQAbstractPrintDialog.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec229190120.dir/testQAbstractPrintDialog.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQAbstractPrintDialog.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQAbstractPrintDialog.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQAbstractPrintDialog.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QAbstractPrintDialog) }
+                    ^
+Linking CXX executable cmTryCompileExec229190120
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec229190120.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec229190120.dir/testQAbstractPrintDialog.cxx.o  -o cmTryCompileExec229190120 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3491504498/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3491504498.dir/build.make CMakeFiles/cmTryCompileExec3491504498.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3491504498.dir/testQGtkStyle.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec3491504498.dir/testQGtkStyle.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQGtkStyle.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQGtkStyle.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQGtkStyle.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QGtkStyle) }
+                    ^
+Linking CXX executable cmTryCompileExec3491504498
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3491504498.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec3491504498.dir/testQGtkStyle.cxx.o  -o cmTryCompileExec3491504498 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3844035180/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3844035180.dir/build.make CMakeFiles/cmTryCompileExec3844035180.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3844035180.dir/testQPageSetupDialog.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec3844035180.dir/testQPageSetupDialog.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPageSetupDialog.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPageSetupDialog.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPageSetupDialog.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPageSetupDialog) }
+                    ^
+Linking CXX executable cmTryCompileExec3844035180
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3844035180.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec3844035180.dir/testQPageSetupDialog.cxx.o  -o cmTryCompileExec3844035180 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3477255857/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3477255857.dir/build.make CMakeFiles/cmTryCompileExec3477255857.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3477255857.dir/testQPrintDialog.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec3477255857.dir/testQPrintDialog.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintDialog.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintDialog.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintDialog.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPrintDialog) }
+                    ^
+Linking CXX executable cmTryCompileExec3477255857
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3477255857.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec3477255857.dir/testQPrintDialog.cxx.o  -o cmTryCompileExec3477255857 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2991904286/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2991904286.dir/build.make CMakeFiles/cmTryCompileExec2991904286.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2991904286.dir/testQPrintEngine.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec2991904286.dir/testQPrintEngine.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintEngine.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintEngine.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintEngine.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPrintEngine) }
+                    ^
+Linking CXX executable cmTryCompileExec2991904286
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2991904286.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec2991904286.dir/testQPrintEngine.cxx.o  -o cmTryCompileExec2991904286 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3666172077/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3666172077.dir/build.make CMakeFiles/cmTryCompileExec3666172077.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3666172077.dir/testQPrintPreviewDialog.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec3666172077.dir/testQPrintPreviewDialog.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintPreviewDialog.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintPreviewDialog.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintPreviewDialog.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPrintPreviewDialog) }
+                    ^
+Linking CXX executable cmTryCompileExec3666172077
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec3666172077.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec3666172077.dir/testQPrintPreviewDialog.cxx.o  -o cmTryCompileExec3666172077 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2459269178/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2459269178.dir/build.make CMakeFiles/cmTryCompileExec2459269178.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2459269178.dir/testQPrintPreviewWidget.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec2459269178.dir/testQPrintPreviewWidget.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintPreviewWidget.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintPreviewWidget.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintPreviewWidget.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPrintPreviewWidget) }
+                    ^
+Linking CXX executable cmTryCompileExec2459269178
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2459269178.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec2459269178.dir/testQPrintPreviewWidget.cxx.o  -o cmTryCompileExec2459269178 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec4097472158/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec4097472158.dir/build.make CMakeFiles/cmTryCompileExec4097472158.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec4097472158.dir/testQPrinter.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec4097472158.dir/testQPrinter.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrinter.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrinter.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrinter.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPrinter) }
+                    ^
+Linking CXX executable cmTryCompileExec4097472158
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4097472158.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec4097472158.dir/testQPrinter.cxx.o  -o cmTryCompileExec4097472158 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2289664119/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2289664119.dir/build.make CMakeFiles/cmTryCompileExec2289664119.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2289664119.dir/testQPrinterInfo.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec2289664119.dir/testQPrinterInfo.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrinterInfo.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrinterInfo.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrinterInfo.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPrinterInfo) }
+                    ^
+Linking CXX executable cmTryCompileExec2289664119
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2289664119.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec2289664119.dir/testQPrinterInfo.cxx.o  -o cmTryCompileExec2289664119 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec970365275/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec970365275.dir/build.make CMakeFiles/cmTryCompileExec970365275.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec970365275.dir/testQSessionManager.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec970365275.dir/testQSessionManager.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSessionManager.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSessionManager.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSessionManager.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSessionManager) }
+                    ^
+Linking CXX executable cmTryCompileExec970365275
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec970365275.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec970365275.dir/testQSessionManager.cxx.o  -o cmTryCompileExec970365275 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2977760747/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2977760747.dir/build.make CMakeFiles/cmTryCompileExec2977760747.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2977760747.dir/testQSizeGrip.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec2977760747.dir/testQSizeGrip.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSizeGrip.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSizeGrip.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSizeGrip.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSizeGrip) }
+                    ^
+Linking CXX executable cmTryCompileExec2977760747
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2977760747.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec2977760747.dir/testQSizeGrip.cxx.o  -o cmTryCompileExec2977760747 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2436780096/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2436780096.dir/build.make CMakeFiles/cmTryCompileExec2436780096.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2436780096.dir/testQSystemTrayIcon.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec2436780096.dir/testQSystemTrayIcon.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSystemTrayIcon.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSystemTrayIcon.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSystemTrayIcon.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSystemTrayIcon) }
+                    ^
+Linking CXX executable cmTryCompileExec2436780096
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2436780096.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec2436780096.dir/testQSystemTrayIcon.cxx.o  -o cmTryCompileExec2436780096 -rdynamic -lQtGui 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec3232307832/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec3232307832.dir/build.make CMakeFiles/cmTryCompileExec3232307832.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec3232307832.dir/testQMacStyle.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtGui    -o CMakeFiles/cmTryCompileExec3232307832.dir/testQMacStyle.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQMacStyle.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQMacStyle.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQMacStyle.cxx:3:21: error: ‘QMacStyle’ was not declared in this scope
+ int main() { sizeof(QMacStyle) }
+                     ^
+gmake[1]: *** [CMakeFiles/cmTryCompileExec3232307832.dir/testQMacStyle.cxx.o] Error 1
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+gmake: *** [cmTryCompileExec3232307832/fast] Error 2
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2228257260/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2228257260.dir/build.make CMakeFiles/cmTryCompileExec2228257260.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2228257260.dir/testQSslCertificate.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtNetwork    -o CMakeFiles/cmTryCompileExec2228257260.dir/testQSslCertificate.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslCertificate.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslCertificate.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslCertificate.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSslCertificate) }
+                    ^
+Linking CXX executable cmTryCompileExec2228257260
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2228257260.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec2228257260.dir/testQSslCertificate.cxx.o  -o cmTryCompileExec2228257260 -rdynamic -lQtNetwork 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2803899120/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2803899120.dir/build.make CMakeFiles/cmTryCompileExec2803899120.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2803899120.dir/testQSslCipher.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtNetwork    -o CMakeFiles/cmTryCompileExec2803899120.dir/testQSslCipher.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslCipher.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslCipher.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslCipher.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSslCipher) }
+                    ^
+Linking CXX executable cmTryCompileExec2803899120
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2803899120.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec2803899120.dir/testQSslCipher.cxx.o  -o cmTryCompileExec2803899120 -rdynamic -lQtNetwork 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec2234947569/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec2234947569.dir/build.make CMakeFiles/cmTryCompileExec2234947569.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2234947569.dir/testQSslConfiguration.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtNetwork    -o CMakeFiles/cmTryCompileExec2234947569.dir/testQSslConfiguration.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslConfiguration.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslConfiguration.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslConfiguration.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSslConfiguration) }
+                    ^
+Linking CXX executable cmTryCompileExec2234947569
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec2234947569.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec2234947569.dir/testQSslConfiguration.cxx.o  -o cmTryCompileExec2234947569 -rdynamic -lQtNetwork 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1621495585/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1621495585.dir/build.make CMakeFiles/cmTryCompileExec1621495585.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1621495585.dir/testQSslError.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtNetwork    -o CMakeFiles/cmTryCompileExec1621495585.dir/testQSslError.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslError.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslError.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslError.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSslError) }
+                    ^
+Linking CXX executable cmTryCompileExec1621495585
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1621495585.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec1621495585.dir/testQSslError.cxx.o  -o cmTryCompileExec1621495585 -rdynamic -lQtNetwork 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec1285798577/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec1285798577.dir/build.make CMakeFiles/cmTryCompileExec1285798577.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec1285798577.dir/testQSslKey.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtNetwork    -o CMakeFiles/cmTryCompileExec1285798577.dir/testQSslKey.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslKey.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslKey.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslKey.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSslKey) }
+                    ^
+Linking CXX executable cmTryCompileExec1285798577
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec1285798577.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec1285798577.dir/testQSslKey.cxx.o  -o cmTryCompileExec1285798577 -rdynamic -lQtNetwork 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:/usr/bin/gmake "cmTryCompileExec4078802971/fast"
+/usr/bin/gmake -f CMakeFiles/cmTryCompileExec4078802971.dir/build.make CMakeFiles/cmTryCompileExec4078802971.dir/build
+gmake[1]: Entering directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec4078802971.dir/testQSslSocket.cxx.o
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing   -I/usr/include/QtNetwork    -o CMakeFiles/cmTryCompileExec4078802971.dir/testQSslSocket.cxx.o -c /root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslSocket.cxx
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslSocket.cxx: In function ‘int main()’:
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslSocket.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSslSocket) }
+                    ^
+Linking CXX executable cmTryCompileExec4078802971
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTryCompileExec4078802971.dir/link.txt --verbose=1
+/usr/bin/c++     -Wall -fvisibility=hidden -Wno-strict-aliasing      CMakeFiles/cmTryCompileExec4078802971.dir/testQSslSocket.cxx.o  -o cmTryCompileExec4078802971 -rdynamic -lQtNetwork 
+gmake[1]: Leaving directory `/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside/CMakeFiles/CMakeTmp'

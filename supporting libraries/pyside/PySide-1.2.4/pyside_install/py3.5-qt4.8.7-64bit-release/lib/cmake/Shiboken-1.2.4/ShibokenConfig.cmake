@@ -1,0 +1,5 @@
+if (NOT PYTHON_SUFFIX)
+    message(STATUS "Using default python: .cpython-35m-x86_64-linux-gnu")
+    SET(PYTHON_SUFFIX .cpython-35m-x86_64-linux-gnu)
+endif()
+include(/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_install/py3.5-qt4.8.7-64bit-release/lib/cmake/Shiboken-1.2.4/ShibokenConfig${PYTHON_SUFFIX}.cmake)

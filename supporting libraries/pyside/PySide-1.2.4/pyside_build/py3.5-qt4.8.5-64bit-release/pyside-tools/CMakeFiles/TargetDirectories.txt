@@ -1,0 +1,4 @@
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside-tools/CMakeFiles/dist.dir
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside-tools/pylupdate/CMakeFiles/pyside-lupdate.dir
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside-tools/pyrcc/CMakeFiles/pyside-rcc.dir
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/pyside-tools/CMakeFiles/uninstall.dir

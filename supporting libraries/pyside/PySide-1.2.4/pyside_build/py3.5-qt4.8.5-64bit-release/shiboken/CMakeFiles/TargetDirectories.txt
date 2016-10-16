@@ -1,0 +1,8 @@
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/shiboken/ApiExtractor/CMakeFiles/apiextractor.dir
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/shiboken/data/CMakeFiles/data.dir
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/shiboken/CMakeFiles/dist.dir
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/shiboken/doc/CMakeFiles/doc.dir
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/shiboken/libshiboken/CMakeFiles/libshiboken.dir
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/shiboken/generator/CMakeFiles/shiboken.dir
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/shiboken/shibokenmodule/CMakeFiles/shibokenmodule.dir
+/root/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.5-64bit-release/shiboken/CMakeFiles/uninstall.dir

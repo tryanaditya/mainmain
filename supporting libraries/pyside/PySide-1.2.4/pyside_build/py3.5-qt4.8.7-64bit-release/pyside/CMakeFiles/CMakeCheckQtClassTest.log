@@ -1,0 +1,316 @@
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a8063/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a8063.dir/build.make CMakeFiles/cmTC_a8063.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a8063.dir/testQAbstractPageSetupDialog.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_a8063.dir/testQAbstractPageSetupDialog.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQAbstractPageSetupDialog.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQAbstractPageSetupDialog.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQAbstractPageSetupDialog.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QAbstractPageSetupDialog) }
+                    ^
+Linking CXX executable cmTC_a8063
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a8063.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_a8063.dir/testQAbstractPageSetupDialog.cxx.o  -o cmTC_a8063 -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_3588a/fast"
+/usr/bin/make -f CMakeFiles/cmTC_3588a.dir/build.make CMakeFiles/cmTC_3588a.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_3588a.dir/testQAbstractPrintDialog.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_3588a.dir/testQAbstractPrintDialog.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQAbstractPrintDialog.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQAbstractPrintDialog.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQAbstractPrintDialog.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QAbstractPrintDialog) }
+                    ^
+Linking CXX executable cmTC_3588a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_3588a.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_3588a.dir/testQAbstractPrintDialog.cxx.o  -o cmTC_3588a -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b4941/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b4941.dir/build.make CMakeFiles/cmTC_b4941.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b4941.dir/testQGtkStyle.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_b4941.dir/testQGtkStyle.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQGtkStyle.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQGtkStyle.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQGtkStyle.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QGtkStyle) }
+                    ^
+Linking CXX executable cmTC_b4941
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b4941.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_b4941.dir/testQGtkStyle.cxx.o  -o cmTC_b4941 -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_300ce/fast"
+/usr/bin/make -f CMakeFiles/cmTC_300ce.dir/build.make CMakeFiles/cmTC_300ce.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_300ce.dir/testQPageSetupDialog.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_300ce.dir/testQPageSetupDialog.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPageSetupDialog.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPageSetupDialog.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPageSetupDialog.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPageSetupDialog) }
+                    ^
+Linking CXX executable cmTC_300ce
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_300ce.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_300ce.dir/testQPageSetupDialog.cxx.o  -o cmTC_300ce -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_9d055/fast"
+/usr/bin/make -f CMakeFiles/cmTC_9d055.dir/build.make CMakeFiles/cmTC_9d055.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_9d055.dir/testQPrintDialog.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_9d055.dir/testQPrintDialog.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintDialog.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintDialog.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintDialog.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPrintDialog) }
+                    ^
+Linking CXX executable cmTC_9d055
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_9d055.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_9d055.dir/testQPrintDialog.cxx.o  -o cmTC_9d055 -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2c4d4/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2c4d4.dir/build.make CMakeFiles/cmTC_2c4d4.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2c4d4.dir/testQPrintEngine.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_2c4d4.dir/testQPrintEngine.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintEngine.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintEngine.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintEngine.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPrintEngine) }
+                    ^
+Linking CXX executable cmTC_2c4d4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2c4d4.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_2c4d4.dir/testQPrintEngine.cxx.o  -o cmTC_2c4d4 -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_6f0c3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_6f0c3.dir/build.make CMakeFiles/cmTC_6f0c3.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_6f0c3.dir/testQPrintPreviewDialog.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_6f0c3.dir/testQPrintPreviewDialog.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintPreviewDialog.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintPreviewDialog.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintPreviewDialog.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPrintPreviewDialog) }
+                    ^
+Linking CXX executable cmTC_6f0c3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6f0c3.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_6f0c3.dir/testQPrintPreviewDialog.cxx.o  -o cmTC_6f0c3 -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5e35e/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5e35e.dir/build.make CMakeFiles/cmTC_5e35e.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5e35e.dir/testQPrintPreviewWidget.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_5e35e.dir/testQPrintPreviewWidget.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintPreviewWidget.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintPreviewWidget.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrintPreviewWidget.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPrintPreviewWidget) }
+                    ^
+Linking CXX executable cmTC_5e35e
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5e35e.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_5e35e.dir/testQPrintPreviewWidget.cxx.o  -o cmTC_5e35e -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cbca2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cbca2.dir/build.make CMakeFiles/cmTC_cbca2.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_cbca2.dir/testQPrinter.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_cbca2.dir/testQPrinter.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrinter.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrinter.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrinter.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPrinter) }
+                    ^
+Linking CXX executable cmTC_cbca2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cbca2.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_cbca2.dir/testQPrinter.cxx.o  -o cmTC_cbca2 -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8e404/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8e404.dir/build.make CMakeFiles/cmTC_8e404.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_8e404.dir/testQPrinterInfo.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_8e404.dir/testQPrinterInfo.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrinterInfo.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrinterInfo.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQPrinterInfo.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QPrinterInfo) }
+                    ^
+Linking CXX executable cmTC_8e404
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8e404.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_8e404.dir/testQPrinterInfo.cxx.o  -o cmTC_8e404 -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_cadd1/fast"
+/usr/bin/make -f CMakeFiles/cmTC_cadd1.dir/build.make CMakeFiles/cmTC_cadd1.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_cadd1.dir/testQSessionManager.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_cadd1.dir/testQSessionManager.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSessionManager.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSessionManager.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSessionManager.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSessionManager) }
+                    ^
+Linking CXX executable cmTC_cadd1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_cadd1.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_cadd1.dir/testQSessionManager.cxx.o  -o cmTC_cadd1 -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_369f5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_369f5.dir/build.make CMakeFiles/cmTC_369f5.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_369f5.dir/testQSizeGrip.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_369f5.dir/testQSizeGrip.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSizeGrip.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSizeGrip.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSizeGrip.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSizeGrip) }
+                    ^
+Linking CXX executable cmTC_369f5
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_369f5.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_369f5.dir/testQSizeGrip.cxx.o  -o cmTC_369f5 -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_12ddb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_12ddb.dir/build.make CMakeFiles/cmTC_12ddb.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_12ddb.dir/testQSystemTrayIcon.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_12ddb.dir/testQSystemTrayIcon.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSystemTrayIcon.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSystemTrayIcon.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSystemTrayIcon.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSystemTrayIcon) }
+                    ^
+Linking CXX executable cmTC_12ddb
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_12ddb.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_12ddb.dir/testQSystemTrayIcon.cxx.o  -o cmTC_12ddb -rdynamic /usr/lib/x86_64-linux-gnu/libQtGui.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2ba4d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2ba4d.dir/build.make CMakeFiles/cmTC_2ba4d.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2ba4d.dir/testQMacStyle.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtGui  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_2ba4d.dir/testQMacStyle.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQMacStyle.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQMacStyle.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQMacStyle.cxx:3:21: error: ‘QMacStyle’ was not declared in this scope
+ int main() { sizeof(QMacStyle) }
+                     ^
+CMakeFiles/cmTC_2ba4d.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_2ba4d.dir/testQMacStyle.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_2ba4d.dir/testQMacStyle.cxx.o] Error 1
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_2ba4d/fast' failed
+make: *** [cmTC_2ba4d/fast] Error 2
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_93aa7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_93aa7.dir/build.make CMakeFiles/cmTC_93aa7.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_93aa7.dir/testQSslCertificate.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtNetwork  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_93aa7.dir/testQSslCertificate.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslCertificate.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslCertificate.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslCertificate.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSslCertificate) }
+                    ^
+Linking CXX executable cmTC_93aa7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_93aa7.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_93aa7.dir/testQSslCertificate.cxx.o  -o cmTC_93aa7 -rdynamic /usr/lib/x86_64-linux-gnu/libQtNetwork.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5c14c/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5c14c.dir/build.make CMakeFiles/cmTC_5c14c.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5c14c.dir/testQSslCipher.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtNetwork  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_5c14c.dir/testQSslCipher.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslCipher.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslCipher.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslCipher.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSslCipher) }
+                    ^
+Linking CXX executable cmTC_5c14c
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5c14c.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_5c14c.dir/testQSslCipher.cxx.o  -o cmTC_5c14c -rdynamic /usr/lib/x86_64-linux-gnu/libQtNetwork.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b8d5d/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b8d5d.dir/build.make CMakeFiles/cmTC_b8d5d.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b8d5d.dir/testQSslConfiguration.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtNetwork  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_b8d5d.dir/testQSslConfiguration.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslConfiguration.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslConfiguration.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslConfiguration.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSslConfiguration) }
+                    ^
+Linking CXX executable cmTC_b8d5d
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b8d5d.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_b8d5d.dir/testQSslConfiguration.cxx.o  -o cmTC_b8d5d -rdynamic /usr/lib/x86_64-linux-gnu/libQtNetwork.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_756da/fast"
+/usr/bin/make -f CMakeFiles/cmTC_756da.dir/build.make CMakeFiles/cmTC_756da.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_756da.dir/testQSslError.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtNetwork  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_756da.dir/testQSslError.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslError.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslError.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslError.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSslError) }
+                    ^
+Linking CXX executable cmTC_756da
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_756da.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_756da.dir/testQSslError.cxx.o  -o cmTC_756da -rdynamic /usr/lib/x86_64-linux-gnu/libQtNetwork.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_43d70/fast"
+/usr/bin/make -f CMakeFiles/cmTC_43d70.dir/build.make CMakeFiles/cmTC_43d70.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_43d70.dir/testQSslKey.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtNetwork  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_43d70.dir/testQSslKey.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslKey.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslKey.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslKey.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSslKey) }
+                    ^
+Linking CXX executable cmTC_43d70
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_43d70.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_43d70.dir/testQSslKey.cxx.o  -o cmTC_43d70 -rdynamic /usr/lib/x86_64-linux-gnu/libQtNetwork.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f2ae2/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f2ae2.dir/build.make CMakeFiles/cmTC_f2ae2.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_f2ae2.dir/testQSslSocket.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/QtNetwork  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_f2ae2.dir/testQSslSocket.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslSocket.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslSocket.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testQSslSocket.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(QSslSocket) }
+                    ^
+Linking CXX executable cmTC_f2ae2
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f2ae2.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_f2ae2.dir/testQSslSocket.cxx.o  -o cmTC_f2ae2 -rdynamic /usr/lib/x86_64-linux-gnu/libQtNetwork.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Change Dir: /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2bd3b/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2bd3b.dir/build.make CMakeFiles/cmTC_2bd3b.dir/build
+make[1]: Entering directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2bd3b.dir/testVideoCaptureDevice.cxx.o
+/usr/bin/c++    -I/usr/include/qt4 -I/usr/include/qt4/phonon  -Wall -fvisibility=hidden -Wno-strict-aliasing    -o CMakeFiles/cmTC_2bd3b.dir/testVideoCaptureDevice.cxx.o -c /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testVideoCaptureDevice.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testVideoCaptureDevice.cxx: In function ‘int main()’:
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp/testVideoCaptureDevice.cxx:3:20: warning: statement has no effect [-Wunused-value]
+ int main() { sizeof(VideoCaptureDevice) }
+                    ^
+Linking CXX executable cmTC_2bd3b
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2bd3b.dir/link.txt --verbose=1
+/usr/bin/c++    -Wall -fvisibility=hidden -Wno-strict-aliasing     CMakeFiles/cmTC_2bd3b.dir/testVideoCaptureDevice.cxx.o  -o cmTC_2bd3b -rdynamic /usr/lib/x86_64-linux-gnu/libphonon.so 
+make[1]: Leaving directory '/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/CMakeFiles/CMakeTmp'

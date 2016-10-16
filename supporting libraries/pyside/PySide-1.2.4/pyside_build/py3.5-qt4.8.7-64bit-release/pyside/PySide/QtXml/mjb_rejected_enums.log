@@ -1,0 +1,49 @@
+************************************************************************
+Not in type system
+ - PM_CbaIconHeight
+ - QML_HAS_ATTACHED_PROPERTIES
+ - Qt::Initialization
+ - SP_CustomTabVideos
+************************************************************************
+
+************************************************************************
+Generation disabled by type system
+ - FP_NORMAL
+ - QAbstractFileEngineIterator::EntryInfoType
+ - QMetaMethod::Attributes
+ - Q_DUMMY_TYPE
+ - QtValidLicenseForActiveQtModule
+ - QtValidLicenseForCoreModule
+ - QtValidLicenseForDBusModule
+ - QtValidLicenseForGuiModule
+ - QtValidLicenseForHelpModule
+ - QtValidLicenseForNetworkModule
+ - QtValidLicenseForOpenGLModule
+ - QtValidLicenseForQt3SupportLightModule
+ - QtValidLicenseForQt3SupportModule
+ - QtValidLicenseForScriptModule
+ - QtValidLicenseForScriptToolsModule
+ - QtValidLicenseForSqlModule
+ - QtValidLicenseForSvgModule
+ - QtValidLicenseForTestModule
+ - QtValidLicenseForXmlModule
+ - QtValidLicenseForXmlPatternsModule
+ - __codecvt_result
+************************************************************************
+
+************************************************************************
+Type redefined to not be a class
+************************************************************************
+
+************************************************************************
+Unmatched argument type
+************************************************************************
+
+************************************************************************
+Unmatched return type
+************************************************************************
+
+************************************************************************
+Incompatible API
+************************************************************************
+

@@ -1,0 +1,16 @@
+[generator-project]
+
+generator-set = shiboken
+
+header-file = /home/tryan/voice_analytics/pyside/PySide-1.2.4/sources/shiboken/shibokenmodule/nothing.h
+typesystem-file = /home/tryan/voice_analytics/pyside/PySide-1.2.4/sources/shiboken/shibokenmodule/typesystem_shiboken.xml
+
+output-directory = /home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/shiboken/shibokenmodule
+
+# include-path = 
+
+typesystem-path = /home/tryan/voice_analytics/pyside/PySide-1.2.4/sources/shiboken/shibokenmodule
+
+avoid-protected-hack
+#enable-parent-ctor-heuristic
+#use-isnull-as-nb_nonzero

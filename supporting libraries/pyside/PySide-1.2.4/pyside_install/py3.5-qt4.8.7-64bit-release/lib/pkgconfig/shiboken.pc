@@ -1,0 +1,13 @@
+prefix=/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_install/py3.5-qt4.8.7-64bit-release
+exec_prefix=/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_install/py3.5-qt4.8.7-64bit-release
+libdir=/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_install/py3.5-qt4.8.7-64bit-release/lib
+includedir=/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_install/py3.5-qt4.8.7-64bit-release/include/shiboken
+generator_location=/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_install/py3.5-qt4.8.7-64bit-release/bin/shiboken
+python_interpreter=/usr/bin/python3
+python_include_dir=/usr/include/python3.5m
+
+Name: shiboken
+Description: Support library for Python bindings created with Shiboken generator.
+Version: 1.2.4
+Libs: /usr/lib/x86_64-linux-gnu/libpython3.5m.so -L${libdir} -lshiboken.cpython-35m-x86_64-linux-gnu
+Cflags: -I/usr/include/python3.5m -I${includedir}/

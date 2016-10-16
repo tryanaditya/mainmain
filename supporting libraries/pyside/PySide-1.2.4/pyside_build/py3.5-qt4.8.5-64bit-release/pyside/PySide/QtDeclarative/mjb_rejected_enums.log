@@ -1,0 +1,49 @@
+************************************************************************
+Not in type system
+ - PM_CbaIconHeight
+ - QSsl::SslOption
+ - Qt::Initialization
+ - SP_CustomTabVideos
+ - _ISalnum
+************************************************************************
+
+************************************************************************
+Generation disabled by type system
+ - FP_NORMAL
+ - QAbstractFileEngineIterator::EntryInfoType
+ - QCoreApplication::ApplicationFlags
+ - QFont::ResolveProperties
+ - QGraphicsEllipseItem::Type
+ - QGraphicsItem::UserType
+ - QGraphicsItemGroup::Type
+ - QGraphicsLineItem::Type
+ - QGraphicsPathItem::Type
+ - QGraphicsPixmapItem::Type
+ - QGraphicsPolygonItem::Type
+ - QGraphicsProxyWidget::Type
+ - QGraphicsRectItem::Type
+ - QGraphicsSimpleTextItem::Type
+ - QGraphicsTextItem::Type
+ - QGraphicsWidget::Type
+ - QMatrix4x4::enum_1
+ - QMetaMethod::Attributes
+ - Q_DUMMY_TYPE
+ - __codecvt_result
+************************************************************************
+
+************************************************************************
+Type redefined to not be a class
+************************************************************************
+
+************************************************************************
+Unmatched argument type
+************************************************************************
+
+************************************************************************
+Unmatched return type
+************************************************************************
+
+************************************************************************
+Incompatible API
+************************************************************************
+

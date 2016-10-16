@@ -1,0 +1,1 @@
+/usr/bin/c++   -O3 -DNDEBUG   CMakeFiles/pyside-rcc.dir/main.cpp.o CMakeFiles/pyside-rcc.dir/rcc.cpp.o  -o pyside-rcc -rdynamic -lQtCore -lQtXml 

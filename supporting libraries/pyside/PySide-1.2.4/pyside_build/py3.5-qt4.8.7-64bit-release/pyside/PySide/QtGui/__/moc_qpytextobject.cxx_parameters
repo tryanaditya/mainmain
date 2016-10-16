@@ -1,0 +1,9 @@
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-D$<$<NOT:$<CONFIG:Debug>>:QT_NO_DEBUG>
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/pyside_build/py3.5-qt4.8.7-64bit-release/pyside/PySide/QtGui/__/moc_qpytextobject.cxx
+/home/tryan/voice_analytics/pyside/PySide-1.2.4/sources/pyside/PySide/qpytextobject.h

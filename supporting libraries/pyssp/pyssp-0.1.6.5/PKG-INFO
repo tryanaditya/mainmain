@@ -1,0 +1,33 @@
+Metadata-Version: 1.0
+Name: pyssp
+Version: 0.1.6.5
+Summary: python speech signal processing library for education
+Home-page: https://bitbucket.org/aihara/pyssp/
+Author: Shunsuke Aihara
+Author-email: s.aihara gmail com
+License: CC3.0-BY-SA
+Description: pyssp
+        by Shunsuke Aihara - http://argmax.jp/
+        
+        This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
+        
+        You are free to share and remix this work as long as you attribute the author and distribute
+        the resulting work only under the same or similar license to this one.
+        
+        To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/
+        
+        date:
+            June 2011
+        description:
+            python speech signal processing library for education
+        require:
+            python2.6 or later
+            scipy
+        
+        
+        
+Keywords: scipy,speech processing
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering
+Classifier: Intended Audience :: Science/Research

@@ -1,0 +1,109 @@
+************************************************************************
+Not in type system
+************************************************************************
+
+************************************************************************
+Generation disabled by type system
+ - QAbstractFileEngine::d_ptr
+ - QAbstractTextDocumentLayout::PaintContext::selections
+ - QChildEvent::c
+ - QContextMenuEvent::gp
+ - QContextMenuEvent::p
+ - QContextMenuEvent::reas
+ - QDir::d_ptr
+ - QDomNode::impl
+ - QDragMoveEvent::rect
+ - QDropEvent::act
+ - QDropEvent::default_action
+ - QDropEvent::drop_action
+ - QDropEvent::fmts
+ - QDropEvent::mdata
+ - QDropEvent::modState
+ - QDropEvent::mouseState
+ - QDropEvent::p
+ - QEvent::d
+ - QEvent::t
+ - QFileInfo::d_ptr
+ - QGraphicsItem::d_ptr
+ - QGraphicsLayoutItem::d_ptr
+ - QGraphicsSceneEvent::d_ptr
+ - QHoverEvent::op
+ - QHoverEvent::p
+ - QImageIOHandler::d_ptr
+ - QInputEvent::modState
+ - QKeyEvent::c
+ - QKeyEvent::k
+ - QKeyEvent::txt
+ - QMetaObject::d
+ - QMotifStyle::focus
+ - QMouseEvent::b
+ - QMouseEvent::g
+ - QMouseEvent::mouseState
+ - QMouseEvent::p
+ - QMoveEvent::oldp
+ - QMoveEvent::p
+ - QObject::d_ptr
+ - QObject::staticMetaObject
+ - QObject::staticQtMetaObject
+ - QPaintEngine::d_ptr
+ - QPaintEvent::m_erased
+ - QPaintEvent::m_rect
+ - QPaintEvent::m_region
+ - QResizeEvent::olds
+ - QResizeEvent::s
+ - QResource::d_ptr
+ - QShortcutEvent::ambig
+ - QShortcutEvent::sequence
+ - QShortcutEvent::sid
+ - QStandardItem::d_ptr
+ - QTabletEvent::mDev
+ - QTabletEvent::mExtra
+ - QTabletEvent::mGPos
+ - QTabletEvent::mHiResGlobalPos
+ - QTabletEvent::mPointerType
+ - QTabletEvent::mPos
+ - QTabletEvent::mPress
+ - QTabletEvent::mRot
+ - QTabletEvent::mTangential
+ - QTabletEvent::mUnique
+ - QTabletEvent::mXT
+ - QTabletEvent::mYT
+ - QTabletEvent::mZ
+ - QTextCodec::ConverterState::d
+ - QTextCodec::ConverterState::state_data
+ - QTimerEvent::id
+ - QTouchEvent::_deviceType
+ - QTouchEvent::_touchPointStates
+ - QTouchEvent::_touchPoints
+ - QTouchEvent::_widget
+ - QUuid::data1
+ - QUuid::data2
+ - QUuid::data3
+ - QUuid::data4
+ - QWheelEvent::d
+ - QWheelEvent::g
+ - QWheelEvent::mouseState
+ - QWheelEvent::o
+ - QWheelEvent::p
+ - QWidgetItem::wid
+ - QX11Info::x11data
+ - QXmlInputSource::EndOfData
+ - QXmlInputSource::EndOfDocument
+************************************************************************
+
+************************************************************************
+Type redefined to not be a class
+************************************************************************
+
+************************************************************************
+Unmatched argument type
+************************************************************************
+
+************************************************************************
+Unmatched return type
+************************************************************************
+
+************************************************************************
+Incompatible API
+************************************************************************
+

@@ -1,0 +1,15 @@
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install cmake build-essential git cmake libqt4-dev libphonon-dev python3-dev libxml2-dev libxslt1-dev libqtwebkit-dev python3-pip python3-dev python-pyaudio python3-pyaudio python3-pyqt4 sox
+
+sudo python3 setup.py build
+sudo python3 setup.py install
+sudo python3 setup.py bdist_wheel --qmake=/usr/bin/qmake-qt4     khusus pyside
+
+
+sudo pip3 install scipy numpy pandas ipython jupyter scikit-learn matplotlib
+
+echo "export GOOGLE_APPLICATION_CREDENTIALS=/home/tryan/voice_analytics/python-docs-samples/speech/api/TranslateApi-92d830ab4063.json" >> ~/.bashrc
+echo "export GCLOUD_PROJECT=translateapi-1470419592659" >> ~/.bashrc
+sudo pip3 install -r requirements-speech_rest.txt
+sudo pip3 install gcloud grpc-google-cloud-speech-v1beta1

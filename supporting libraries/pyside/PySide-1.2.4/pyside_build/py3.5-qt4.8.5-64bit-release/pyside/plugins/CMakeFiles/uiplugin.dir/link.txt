@@ -1,0 +1,2 @@
+/usr/bin/ar cr libuiplugin.a  CMakeFiles/uiplugin.dir/customwidgets.cpp.o CMakeFiles/uiplugin.dir/customwidget.cpp.o CMakeFiles/uiplugin.dir/moc_customwidget.cxx.o CMakeFiles/uiplugin.dir/moc_customwidgets.cxx.o
+/usr/bin/ranlib libuiplugin.a

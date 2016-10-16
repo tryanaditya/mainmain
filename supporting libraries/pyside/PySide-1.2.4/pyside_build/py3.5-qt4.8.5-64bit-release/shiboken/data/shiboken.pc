@@ -1,0 +1,13 @@
+prefix=/root/pyside/PySide-1.2.4/pyside_install/py3.5-qt4.8.5-64bit-release
+exec_prefix=/root/pyside/PySide-1.2.4/pyside_install/py3.5-qt4.8.5-64bit-release
+libdir=/root/pyside/PySide-1.2.4/pyside_install/py3.5-qt4.8.5-64bit-release/lib
+includedir=/root/pyside/PySide-1.2.4/pyside_install/py3.5-qt4.8.5-64bit-release/include/shiboken
+generator_location=/root/pyside/PySide-1.2.4/pyside_install/py3.5-qt4.8.5-64bit-release/bin/shiboken
+python_interpreter=/usr/local/bin/python3
+python_include_dir=/usr/local/include/python3.5m
+
+Name: shiboken
+Description: Support library for Python bindings created with Shiboken generator.
+Version: 1.2.4
+Libs: /usr/local/lib/libpython3.5m.so -L${libdir} -lshiboken.cpython-35m-x86_64-linux-gnu
+Cflags: -I/usr/local/include/python3.5m -I${includedir}/
